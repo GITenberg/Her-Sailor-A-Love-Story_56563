@@ -1,0 +1,28 @@
+_repo: Her-Sailor-A-Love-Story_56563
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Saunders, Marshall
+    alias: Saunders, Margaret Marshall
+    birthdate: 1861
+    deathdate: 1947
+    gutenberg_agent_id: '1041'
+    url: http://www.gutenberg.org/2009/agents/1041
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Marshall_Saunders
+description: ''
+gutenberg_issued: '2018-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56563'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New England -- Social life and customs -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Transatlantic voyages -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'Her Sailor: A Love Story'
+url: http://www.gutenberg.org/ebooks/56563
